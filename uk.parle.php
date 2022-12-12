@@ -2,14 +2,6 @@
 
 $parle['uk'] =
 [
-    "bshp:0" => "African",
-    "bshp:1" => "African",
-    "bshp:2" => "Caucasian",
-    "bshp:3" => "Mongolian",
-    "fshp:0" => "Egyptian Soles",
-    "fshp:1" => "Egyptian Soles",
-    "fshp:2" => "Italian Soles",
-    "fshp:3" => "Greek Soles",
     "filter:blur" => "Blur",
     "filter:opacity" => "Opacity",
     "filter:brightness" => "Brightness",
