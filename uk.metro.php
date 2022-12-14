@@ -9,10 +9,22 @@ $metro['uk'] =
         "fshp" => "Feet",
         "birth" => "Birth",
         "country" => "Country",
+        "quantity" => "Quantity",
         "height" => "Height",
         "weight" => "Weight",
         "size" => "Size",
         "arousal" => "Beauty",
+    ],
+    "unit" =>
+    [
+        "quantity" => "%",
+        "height" => "ft",
+        "weight" => "lb",
+        "size" => "UK",
+    ],
+    "round" =>
+    [
+        "quantity" => 0,
     ],
     "bshp" =>
     [
