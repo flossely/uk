@@ -17,7 +17,7 @@ $metro['uk'] =
     ],
     "unit" =>
     [
-        "quantity" => "%",
+        "quantity" => "K",
         "height" => "ft",
         "weight" => "lb",
         "size" => "UK",
