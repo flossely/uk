@@ -32,7 +32,7 @@ $metro['uk'] =
     ],
     "unit" =>
     [
-        "ratio" => "K",
+        "ratio" => "%",
         "height" => "ft",
         "weight" => "lb",
         "size" => "UK",
@@ -53,7 +53,7 @@ $metro['uk'] =
     ],
     "round" =>
     [
-        "ratio" => 3,
+        "ratio" => 0,
     ],
     "bshp" =>
     [
