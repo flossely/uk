@@ -13,7 +13,6 @@ $metro['uk'] =
         "height" => "Height",
         "weight" => "Weight",
         "size" => "Size",
-        "arousal" => "Beauty",
     ],
     "unit" =>
     [
@@ -22,9 +21,23 @@ $metro['uk'] =
         "weight" => "lb",
         "size" => "UK",
     ],
+    "side" =>
+    [
+        "quantity" => "right",
+        "height" => "right",
+        "weight" => "right",
+        "size" => "right",
+    ],
+    "space" =>
+    [
+        "quantity" => "",
+        "height" => " ",
+        "weight" => " ",
+        "size" => " ",
+    ],
     "round" =>
     [
-        "quantity" => 0,
+        "quantity" => 3,
     ],
     "bshp" =>
     [
