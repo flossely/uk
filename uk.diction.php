@@ -15,6 +15,12 @@ $diction['uk'] =
         '8',
         '9'
     ],
+    'mode' =>
+    [
+        -1 => 'Left',
+        0 => 'Centre',
+        1 => 'Right'
+    ],
     'alphabet' =>
     [
         'a',
@@ -60,4 +66,3 @@ $diction['uk'] =
         '51' => 'INSUFFICIENT_FUNDS'
     ],
 ];
-
